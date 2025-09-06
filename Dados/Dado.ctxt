@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Dado
+comment0.text=\n\ Write\ a\ description\ of\ class\ Dado\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Dado()
+comment2.params=cantidadCaras
+comment2.target=Dado(int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=int\ getCaras()
+comment5.params=
+comment5.target=int\ lanzar()
+comment6.params=
+comment6.target=int\ getCaraActual()
+numComments=7
